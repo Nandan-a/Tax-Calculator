@@ -1,2 +1,2 @@
-# Tax-Claculator
-Mobile application MINI
+# Tax-Calculator
+Android App to Calculate Income Tax and EMI
